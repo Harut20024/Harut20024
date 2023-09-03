@@ -10,6 +10,8 @@ Currently, I'm diving into the world of game development with JavaScript. I'm le
 
 - [Ninja Game](https://github.com/Harut20024/Ninja-Game): I've created an exciting game where you play as a ninja defending against knights who are coming at you. You can throw stars, and after drinking an elixir, you can jump. Be careful, though, as the knights can steal your elixir. Collect the necessary score to win!
 
+- [Game Of Life](https://github.com/Harut20024/Game-Of-Life):Explore the Game of Life, an automated world where entities move, grow, and adapt without your control. Witness the cycle of life as you observe grass, GrassEaters, Predators, and Bombs. Play now and let the game unfold on its own.
+
 - [Mermaid](https://github.com/Harut20024/Mermaid): Here's another game I've developed. It's similar to Candy Crush, where you can move objects. When three or more objects are in the same line, they will be deleted. You must collect the necessary score within the time limit, or you will lose.
 
 - [Fullstack Web-Site](https://github.com/Harut20024/full-stack-website): I've also worked on this project. It's a website that consists of both front-end and back-end components. I used Node.js and React to create it.
