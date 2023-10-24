@@ -8,7 +8,7 @@ Currently, I'm diving into the world of game development with JavaScript. I'm le
 
 ## 💼 Games and Projects
 
-- [Ninja Game](https://github.com/Harut20024/Ninja-Game): I've created an exciting game where you play as a ninja defending against knights who are coming at you. You can throw stars, and after drinking an elixir, you can jump. Be careful, though, as the knights can steal your elixir. Collect the necessary score to win!
+- [Ninja Game](https://harut20024.github.io/Ninja-Game/): I've created an exciting game where you play as a ninja defending against knights who are coming at you. You can throw stars, and after drinking an elixir, you can jump. Be careful, though, as the knights can steal your elixir. Collect the necessary score to win!
 
 - [Game Of Life](https://github.com/Harut20024/Game-Of-Life): Explore the Game of Life, an automated world where entities move, grow, and adapt without your control. Witness the cycle of life as you observe grass, GrassEaters, Predators, and Bombs. Play now and let the game unfold on its own.
 
