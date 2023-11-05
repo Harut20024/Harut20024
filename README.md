@@ -12,6 +12,8 @@ Currently, I'm diving into the world of game development with JavaScript. I'm le
 
 - [Game Of Life](https://harut20024.github.io/Game-Of-Life): Explore the Game of Life, an automated world where entities move, grow, and adapt without your control. Witness the cycle of life as you observe grass, GrassEaters, Predators, and Bombs. Play now and let the game unfold on its own.
 
+- [Chess Game](https://harut20024.github.io/Chess/) Immerse yourself in the grandeur of chess with my online Chess Game. Challenge your strategic thinking on a virtual board that encapsulates the solemn tradition and intellectual rigor of this timeless game.
+
 - [Mermaid](https://harut20024.github.io/Mermaid/): Here's another game I've developed. It's similar to Candy Crush, where you can move objects. When three or more objects are in the same line, they will be deleted. You must collect the necessary score within the time limit, or you will lose.
 
 - [Fullstack Web-Site](https://github.com/Harut20024/full-stack-website): I've also worked on this project. It's a website that consists of both front-end and back-end components. I used Node.js and React to create it.
