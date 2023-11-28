@@ -9,7 +9,9 @@ Currently, I'm diving into the world of game development with JavaScript. I'm le
 ## 💼 Games and Projects
 
 - [Ninja Game](https://harut20024.github.io/Ninja-Game/): I've created an exciting game where you play as a ninja defending against knights who are coming at you. You can throw stars, and after drinking an elixir, you can jump. Be careful, though,   as the knights can steal your elixir. Collect the necessary score to win!
-- [GetMovie](https://harut20024.github.io/GetMovie/): GetMovie is an inviting online platform where movie buffs can effortlessly navigate through a diverse selection of films, tailored to suit any taste. It's your perfect destination for discovering hidden cinematic gems or revisiting timeless classics, all within a few clicks.
+- [Doodle Jump](https://harut20024.github.io/DoodleJump/): Doodle Jump is an engaging and addictive platformer game where players guide a whimsical doodler character through a series of challenging platforms, aiming to reach as high as possible. With dynamic obstacles, various power-ups, and interactive   sound effects, this game offers a delightful blend of challenge and fun, perfect for players of all ages.
+- [GetMovie](https://harut20024.github.io/GetMovie/): GetMovie is an inviting online platform where movie buffs can effortlessly navigate through a diverse selection of films, tailored to suit any taste. It's your perfect destination for      
+  discovering hidden cinematic gems or revisiting timeless classics, all within a few clicks.
 - [Durak Game](https://harut20024.github.io/Durak-/): Explore the dynamic world of card gaming with our latest digital card game. This engaging game combines strategy, skill, and a dash of luck, offering an immersive experience for players of 
   all levels.
 - [Game Of Life](https://harut20024.github.io/Game-Of-Life): Explore the Game of Life, an automated world where entities move, grow, and adapt without your control. Witness the cycle of life as you observe grass, GrassEaters, Predators, and Bombs. 
