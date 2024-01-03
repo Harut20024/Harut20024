@@ -9,6 +9,7 @@ Currently, I'm diving into the world of game development with JavaScript. I'm le
 ## 💼 Games and Projects
 
 - [Ninja Game](https://harut20024.github.io/Ninja-Game/): I've created an exciting game where you play as a ninja defending against knights who are coming at you. You can throw stars, and after drinking an elixir, you can jump. Be careful, though,   as the knights can steal your elixir. Collect the necessary score to win!
+- [Skyway Survivor](https://harut20024.github.io/Skyway-Survivor/): Welcome to the Skyway Survivor Game, an exciting and fun platformer game that promises to keep your fun! This game, developed a game where you can Survive in space,and reach to  victory
 - [Portfolio](https://harut20024.github.io/portfolio/): My portfolio showcases a diverse range of projects and skills, reflecting my passion for creativity and innovation in technology. It's a vivid testament to my journey as a developer,     
   demonstrating my commitment to continuous learning and excellence in my field.
 - [Doodle Jump](https://harut20024.github.io/DoodleJump/): Doodle Jump is an engaging and addictive platformer game where players guide a whimsical doodler character through a series of challenging platforms, aiming to reach as high as possible. With dynamic obstacles, various power-ups, and interactive   sound effects, this game offers a delightful blend of challenge and fun, perfect for players of all ages.
