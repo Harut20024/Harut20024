@@ -44,7 +44,7 @@ I am delving deeper into full-stack development, expanding my skills across both
 
 - [Fullstack Web-Site](https://github.com/Harut20024/full-stack-website): I've also worked on this project. It's a website that consists of both front-end and back-end components. I used Node.js and React to create it.
 
-### :fire: My Stats :
+## 📊 My Stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harut20024&theme=dracula&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🤝 Let's Create Together
