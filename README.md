@@ -1,10 +1,25 @@
 # 👋 Hello, I'm Harut!
 
-Nice to meet you on my GitHub profile. I'm passionate about creating websites and crafting captivating games using JavaScript. I use HTML and CSS to make everything visually appealing. Lately, I've been exploring React and Node, which are tools for building modern websites.
+Hello there! It's great to have you checking out my GitHub profile. I really enjoy crafting websites and more. I rely on frameworks to ensure everything looks visually pleasing. Recently, I've been delving into React,Vue and Node, which are handy tools for constructing contemporary websites.
 
-## 🌱 What I'm Exploring Now
+## 💻 What I'm Exploring Now
 
-Currently, I'm diving into the world of game development with JavaScript. I'm learning how to design games that are not only visually engaging but also provide an enjoyable experience for players. Additionally, I'm refining my skills in React and Node to build user-friendly websites.
+I am delving deeper into full-stack development, expanding my skills across both frontend and backend technologies to create comprehensive software solutions.
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ## 💼 Games and Projects
 
@@ -28,6 +43,9 @@ Currently, I'm diving into the world of game development with JavaScript. I'm le
    score within the time limit, or you will lose.
 
 - [Fullstack Web-Site](https://github.com/Harut20024/full-stack-website): I've also worked on this project. It's a website that consists of both front-end and back-end components. I used Node.js and React to create it.
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harut20024&theme=dracula&hide_border=true&border_radius=5.3&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🤝 Let's Create Together
 
