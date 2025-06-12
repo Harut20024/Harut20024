@@ -6,6 +6,7 @@ I'm deepening my expertise in Java backend technologies, focusing on Spring Boot
 
 ## 💼 Games and Projects
 
+- [PowerFind](https://github.com/Harut20024/PowerFind): PowerFind is a demo backend project made to show my skills as a Java developer. In this project, I create, update, and manage news data.
 - [Portfolio](https://harut20024.github.io/portfolio/): My portfolio showcases a diverse range of projects and skills, reflecting my passion for creativity and innovation in technology. It's a vivid testament to my journey as a developer,demonstrating my commitment to continuous learning and excellence in my field.
 - [Ninja Game](https://harut20024.github.io/Ninja-Game/): I've created an exciting game where you play as a ninja defending against knights who are coming at you. You can throw stars, and after drinking an elixir, you can jump. Be careful, though,   as the knights can steal your elixir. Collect the necessary score to win!
 - [Skyway Survivor](https://harut20024.github.io/Skyway-Survivor/): Welcome to the Skyway Survivor Game, an exciting and fun platformer game that promises to keep your fun! This game, developed a game where you can Survive in space,and reach to  victory
